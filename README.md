@@ -1,10 +1,20 @@
-# Microsoft Certifications Prep
+# Microsoft Certifications
 
 Hold assets, materials, and everything needed for certifications.
 
+# Setup
+
+```bash
 python -m pip install pipenv
 pipenv shell
 pipenv install python-dotenv
+```
+
+# Certifications
+
+| Certification               | Provider  | Link |
+| --------------------------- | --------- | ---- |
+| Azure AI Engineer Associate | Microsoft | link |
 
 ## Certification: [Azure AI Engineer Associate](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/)
 
