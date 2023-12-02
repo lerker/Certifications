@@ -22,15 +22,15 @@ As a Microsoft Azure AI engineer, you build, manage, and deploy AI solutions tha
 
 Your responsibilities include participating in all phases of AI solutions development, including:
 
-Requirements definition and design
-
+- Requirements definition and design
 - Development
 - Deployment
 - Integration
 - Maintenance
 - Performance tuning
 - Monitoring
-  You work with solution architects to translate their vision. You also work with data scientists, data engineers, Internet of Things (IoT) specialists, infrastructure administrators, and other software developers to:
+
+You work with solution architects to translate their vision. You also work with data scientists, data engineers, Internet of Things (IoT) specialists, infrastructure administrators, and other software developers to:
 
 - Build complete and secure end-to-end AI solutions.
 - Integrate AI capabilities in other applications and solutions.
